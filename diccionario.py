@@ -9,7 +9,7 @@ persona = {
 print(persona)
 # Muestra contenido por un Key particular
 print(persona["age"])
-# Muestra el valos de un Key en particular con metodo
+# Muestra el valor de un Key en particular con metodo
 print(persona.get("lastName"))
 # cambiar datos
 persona["firstName"] = "Jennifert Andrea"
