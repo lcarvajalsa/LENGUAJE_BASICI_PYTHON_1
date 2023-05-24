@@ -338,4 +338,4 @@ Borrar: Nos pide ingresar el nombre del instructor y si existe nos preguntará s
 Listar: Nos muestra todos los instructores de la agenda.
 '''  
                         
-    ingreso=(int(input("UNO si Desea consultar nuevamente, DOS para salir\n")))   
+ingreso=(int(input("UNO si Desea consultar nuevamente, DOS para salir\n")))   
